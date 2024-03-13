@@ -1,0 +1,1 @@
+res = msgbox("作業を開始しますか？",vbOKCancel,"確認")
